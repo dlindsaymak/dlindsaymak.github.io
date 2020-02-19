@@ -1,2 +1,5 @@
 	name: Debra Lindsay
 	markdown: kramdown
+	
+	kramdown:
+  parse_block_html: true
